@@ -12,9 +12,10 @@ public class calculator{
         
         System.out.println("Hello world");
     }
-    public static void multiply(int a,int b){
-    System.out.println(d/b);
+    public static void multiply(int d,int b){
+        System.out.println(d/b);
+    }
 }
-}
+
 
 

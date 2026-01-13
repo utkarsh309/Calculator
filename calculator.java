@@ -1,16 +1,12 @@
 public class calculator{
-<<<<<<< HEAD
 
     public static void subtraction(int a,int b){
         System.out.println("subtraction : " + (a-b));
     }
-
-=======
     public void add(int a,int b){
         int result=a+b;
         System.out.println("addition:"+result);
     }
->>>>>>> fdee929e07e32a2703048d22863ab812d13d9120
     public static void main(String[] args){
         
         

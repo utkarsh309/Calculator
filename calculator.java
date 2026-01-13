@@ -7,6 +7,11 @@ public class calculator{
         int result=a+b;
         System.out.println("addition:"+result);
     }
+    public void divide(int a,int b){
+        System.out.println("Divide"+a/b);
+
+    }
+    
     public static void main(String[] args){
         
         
